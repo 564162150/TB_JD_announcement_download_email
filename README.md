@@ -1,0 +1,2 @@
+# TB_JD_announcement_download_email
+淘宝 京东开放平台公告下载并发送邮件
